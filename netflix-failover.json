@@ -1,0 +1,9 @@
+{
+  "initial_primary": "ByteVirt_TW_HiNet_NAT_Proxy",
+  "alternate": "NiiHost_TW_HiNet_NAT_Proxy",
+  "control": {"id": "80057281", "name": "Stranger Things"},
+  "licensed_titles": [
+    {"id": "81280792", "name": "LEGO Ninjago"},
+    {"id": "70143836", "name": "Breaking Bad"}
+  ]
+}

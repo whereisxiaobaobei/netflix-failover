@@ -1,0 +1,11 @@
+[Unit]
+Description=Hourly Netflix licensed-title unlock check
+
+[Timer]
+OnCalendar=hourly
+Persistent=true
+AccuracySec=1min
+Unit=netflix-failover.service
+
+[Install]
+WantedBy=timers.target
